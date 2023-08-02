@@ -1,7 +1,7 @@
 ## Ooi! Eu sou Deivison Gracindo! 🖐
 
-- 📱 Eu sou estudante de Front-end e UI Design
-- 🤓 Estudando HTML, CSS, JavaScript e UI Design (atualmente) 
+- 📱 Eu sou estudante de Front-end
+- 🤓 Estudando HTML, CSS, JavaScript (atualmente) 
 - 📫 Contate-me no email: deivison10gracindo@outlook.com
 
 <div style="display: inline_block"><br>
