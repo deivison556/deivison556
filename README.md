@@ -19,7 +19,6 @@ Estou aberto a oportunidades que me permitam aplicar meus conhecimentos técnico
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 
 <br>
-<hr>
 <br>
  <div>
    <a href="https://github.com/deivison556">
