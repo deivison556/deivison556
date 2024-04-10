@@ -5,7 +5,7 @@ A primeira vez que tive contato com programação foi com o professor Gustavo Gu
  
 Estou aberto a oportunidades que me permitam aplicar meus conhecimentos técnicos e a fazer colaborações para projetos.  
 
-- 📱 Eu estou fazendo curso de Front end na Ebac e Origamid
+- 📱 Eu estou fazendo curso de Front end na Dev Quest, Origamid e Udemy
 - 🤓 Atualmente estou aprendendo **JavaScript**
 - 💌 Entre em contato: **deivison10gracindo@outlook.com**
 - Linkedin: **https://www.linkedin.com/in/deivison-gracindo-09b483113/**
