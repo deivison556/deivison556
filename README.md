@@ -22,6 +22,7 @@ Estou aberto a oportunidades que me permitam aplicar meus conhecimentos técnico
 <br>
  <div>
    <a href="https://github.com/deivison556">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivison556&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivison556&show_icons=true&theme=transparent"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivison556&layout=compact&langs_count=6&theme=tokyonight"/>
+   
 </div>
