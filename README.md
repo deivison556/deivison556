@@ -1,14 +1,10 @@
 # Ooi! Eu sou Deivison Gracindo! 🖐
-E sou um desenvolvedor Web Front End Júnior. Atualmente, estou cursando o 1° semestre de Análise e Desenvolvimento de Sistemas na Universidade Uniasselvi por meio do ensino EAD.
+A primeira vez que tive contato com programação foi com o professor Gustavo Guanabara. E desde então, eu estou me dedicando a aprimorar minhas habilidades atráves de diversos cursos online voltados para o desenvolvimento web e relacionados a área tecnologia. 
+Meu objetivo é especializar-me e progredir profissionalmente. Estou aberto a oportunidades que me permitam aplicar meus conhecimentos técnicos e a fazer colaborações para projetos.  
 
-A primeira vez que tive contato com programação foi com o professor Gustavo Guanabara. E desde então, eu estou me dedicando a aprimorar minhas habilidades atráves de diversos cursos onine voltados para o desenvolvimento web e relacionados a área tecnologia. Meu objetivo é especializar-me e progredir profissionalmente. 
- 
-Estou aberto a oportunidades que me permitam aplicar meus conhecimentos técnicos e a fazer colaborações para projetos.  
-
-- 📱 Eu estou fazendo curso de Front end na Dev Quest, Origamid e Udemy
 - 🤓 Atualmente estou aprendendo **JavaScript**
 - 💌 Entre em contato: **deivison10gracindo@outlook.com**
-- Linkedin: **https://www.linkedin.com/in/deivison-gracindo-09b483113/**
+- Linkedin: **https://www.linkedin.com/in/deivison-gracindo-01a323363/**
 
 
 ## TECNOLOGIAS QUE UTILIZO NO DIA A DIA:
@@ -24,5 +20,4 @@ Estou aberto a oportunidades que me permitam aplicar meus conhecimentos técnico
    <a href="https://github.com/deivison556">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivison556&show_icons=true&theme=transparent"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivison556&layout=compact&langs_count=6&theme=tokyonight"/>
-   
 </div>
